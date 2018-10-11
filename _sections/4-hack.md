@@ -13,9 +13,9 @@ name: hack
 
 <ul class="hack-list hackathons">
 <div>Upcoming Hackathons</div>
-<li class="hack-item"><a href="http://2017.hackatbrown.org/">hack@brown (2-4-17)</a></li>
-<li class="hack-item"><a href="http://profhacks.com/">ProfHacks 2017 (2-4-17)</a></li>
-<li class="hack-item"><a href="http://www.vthacks.com/">VTHacks (2-17-17)</a></li>
-<a class="button" href="https://mlh.io/seasons/na-2017/events">Full List</a>
+<li class="hack-item"><a href="https://hackduke.org/">HackDuke (10-13-18)</a></li>
+<li class="hack-item"><a href="http://hackital.io/">Hackital (10-18)</a></li>
+<li class="hack-item"><a href="https://healthhacks.vcu.edu/">HealthHacks (11-3-18)</a></li>
+<a class="button" href="https://mlh.io/seasons/na-2018/events">Full List</a>
 </ul>
 </div>
